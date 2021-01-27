@@ -1,0 +1,21 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27-Jan-2021, 13:57:46
+    Author     : Matt
+*/
+
+.chart-plot-background {
+-fx-background-color: transparent;
+}
+
+.default-color0.chart-series-line {
+-fx-stroke: blue;
+}
+
+.default-color0.chart-line-symbol { 
+-fx-background-color: blue, white;
+}
